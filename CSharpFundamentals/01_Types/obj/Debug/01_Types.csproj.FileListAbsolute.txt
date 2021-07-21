@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\01_Types\obj\Debug\01_Types.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\01_Types\obj\Debug\01_Types.csproj.CoreCompileInputs.cache
