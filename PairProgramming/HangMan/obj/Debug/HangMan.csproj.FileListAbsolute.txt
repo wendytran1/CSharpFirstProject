@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\PairProgramming\HangMan\bin\Debug\HangMan.exe.config
+C:\ElevenFiftyProjects\PairProgramming\HangMan\bin\Debug\HangMan.exe
+C:\ElevenFiftyProjects\PairProgramming\HangMan\bin\Debug\HangMan.pdb
+C:\ElevenFiftyProjects\PairProgramming\HangMan\obj\Debug\HangMan.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\PairProgramming\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\PairProgramming\HangMan\obj\Debug\HangMan.exe
+C:\ElevenFiftyProjects\PairProgramming\HangMan\obj\Debug\HangMan.pdb
+C:\ElevenFiftyProjects\PairProgramming\HangMan\bin\Debug\HangManClasses.dll
+C:\ElevenFiftyProjects\PairProgramming\HangMan\bin\Debug\HangManClasses.pdb
+C:\ElevenFiftyProjects\PairProgramming\HangMan\obj\Debug\HangMan.csproj.CopyComplete

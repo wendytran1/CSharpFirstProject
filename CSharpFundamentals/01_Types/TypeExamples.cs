@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using System.Collections.Generic;
 
 namespace _01_Types
 {
@@ -33,5 +34,25 @@ namespace _01_Types
         int remainder = numOne % numTwo;
 
         }
+    [TestMethod]
+    public void ReferenceTypes();
+    {
+    //Strings
+    string stringExample = "This is a string.";
+    string name = "Wendy";
+
+    string declared;
+    declared = "Now it is initialized";
+
+        //Formatting Strings
+        string concatenate = stringExample + namespace + name
+        string interpolate = $"{name}"
+
+        //Lists
+        List<>
+
+        //Queues
+        Queue<>
+
     }
 }

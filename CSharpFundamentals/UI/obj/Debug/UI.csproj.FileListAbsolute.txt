@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache

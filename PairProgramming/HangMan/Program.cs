@@ -10,6 +10,8 @@ namespace HangMan
     {
         static void Main(string[] args)
         {
+            UI ourUI = new UI();
+            ourUI.Run();
         }
     }
 }
